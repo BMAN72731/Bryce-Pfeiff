@@ -18,7 +18,7 @@ I am highly passionate about cyber security so I'm looking to broaden my educati
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | <a href="https://google.com](https://github.com/BMAN72731/Private-Projects">Detection Lab</a>|
 
 ## Tools
 
