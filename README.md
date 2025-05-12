@@ -26,6 +26,8 @@ I am highly passionate about cyber security so I'm looking to broaden my educati
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SIEM-4B4B4B?style=for-the-badge&logo=security&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-5E5E5E?style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-BitLocker-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
@@ -42,6 +44,7 @@ I am highly passionate about cyber security so I'm looking to broaden my educati
 <img src="https://img.shields.io/badge/-Active%20Directory-4472C4?&style=for-the-badge&logo=Windows&logoColor=white" />
 <img src="https://img.shields.io/badge/-Exchange-0078D4?&style=for-the-badge&logo=Microsoft%20Exchange&logoColor=white" />
 <img src="https://img.shields.io/badge/-Intune-0078D4?&style=for-the-badge&logo=Microsoft%20Intune&logoColor=white" />
+<img src="https://img.shields.io/badge/-Virtualization-008080?style=for-the-badge&logo=VMware&logoColor=white" />
 <img src="https://img.shields.io/badge/-AI%20RAG%20Models-8A2BE2?&style=for-the-badge&logo=OpenAI&logoColor=white" />
 <img src="https://img.shields.io/badge/-AI-202124?&style=for-the-badge&logo=OpenAI&logoColor=white" />
 <img src="https://img.shields.io/badge/-IoT-0A9396?&style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
@@ -69,5 +72,6 @@ I am highly passionate about cyber security so I'm looking to broaden my educati
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- SIEM-Honeypot (My personal favorite)
+- Academic Archive
+- Private Projects
