@@ -19,8 +19,8 @@ I am highly passionate about cyber security so I'm looking to broaden my educati
 | Data Forensics and Steganographhy             | <a href="https://github.com/BMAN72731/Academic-Projects">Data Forensics</a>|
 | Penetration Testing                           |<a href="https://github.com/BMAN72731/Academic-Projects">Pentesting Info</a>|
 | Virtual Machine Deployment                    | <a href="https://github.com/BMAN72731/Private-Projects">VM's</a>|
-| AI Agents                                     | <a href="https://github.com/BMAN72731/Private-Projects">VM's</a>|
-| Micorosoft App Down Detecor                   | <a href="https://github.com/BMAN72731/Private-Projects">VM's</a>|
+| AI Agents                                     | <a href="https://github.com/BMAN72731/Private-Projects">AI Project</a>|
+| Micorosoft App Down Detecor                   | <a href="https://github.com/BMAN72731/Private-Projects">Link</a>|
 
 ## Tools
 
