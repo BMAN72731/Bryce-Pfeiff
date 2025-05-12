@@ -9,7 +9,7 @@ I am a recent graduate with a B.S in Cybersecurity and Information Assurance fro
 I am highly passionate about cyber security so I'm looking to broaden my education and continue sharpening my skills. I would like to transition into a more specialized role such as a Cybersecurity or SOC analyst to continue my professional development and interests.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -21,6 +21,7 @@ I am highly passionate about cyber security so I'm looking to broaden my educati
 | Virtual Machine Deployment                    | <a href="https://github.com/BMAN72731/Private-Projects">VM's</a>|
 | AI Agents                                     | <a href="https://github.com/BMAN72731/Private-Projects">AI Project</a>|
 | Micorosoft App Down Detecor                   | <a href="https://github.com/BMAN72731/Private-Projects">Link</a>|
+I am constantly developing my skills and these are just the ones with specific projects linked to them!
 
 ## Tools
 
