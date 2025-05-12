@@ -13,12 +13,14 @@ I am highly passionate about cyber security so I'm looking to broaden my educati
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/BMAN72731/Private-Projects">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/BMAN72731/SIEM-Honeypot">SIEM Project</a>|
+| Data Loss Prevention                          | <a href="https://github.com/BMAN72731/Academic-Projects">DLP Proposal</a>|
+| Network and Endpoint Vulnerability Analysis   | <a href="https://github.com/BMAN72731/Academic-Projects">Vulnerability Analsysis</a>|
+| Data Forensics and Steganographhy             | <a href="https://github.com/BMAN72731/Academic-Projects">Data Forensics</a>|
+| Penetration Testing                           |<a href="https://github.com/BMAN72731/Academic-Projects">Pentesting Info</a>|
+| Virtual Machine Deployment                    | <a href="https://github.com/BMAN72731/Private-Projects">VM's</a>|
+| AI Agents                                     | <a href="https://github.com/BMAN72731/Private-Projects">VM's</a>|
+| Micorosoft App Down Detecor                   | <a href="https://github.com/BMAN72731/Private-Projects">VM's</a>|
 
 ## Tools
 
