@@ -74,6 +74,6 @@ I am highly passionate about cyber security so I'm looking to broaden my educati
 </div>
 
 ## Projects
-- SIEM-Honeypot (My personal favorite)
-- Academic Archive
-- Private Projects
+- <a href="https://github.com/BMAN72731/SIEM-Honeypot">SIEM-Honeypot (My personal favorite)</a>
+- <a href="https://github.com/BMAN72731/Academic-Projects">Academic Archive</a>
+- <a href="https://github.com/BMAN72731/Private-Projects">Private Projects</a>
